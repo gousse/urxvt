@@ -3,7 +3,7 @@ URxvt.geometry: 74x27
 URxvt.font: xft:Monospace:size=11,xft:DejaVu Sans Mono for Powerline:size=11
 !URxvt.font: xft:Source Code Pro for Powerline:size=11:antialias=true
 URxvt.boldfont: xft:Monospace:size=11,xft:DejaVu Sans Mono for Powerline:size=11,antialias=true
-URxvt*saveLines: 10000
+URxvt*saveLines: 20000
 
 Xft.antialias: true
 
