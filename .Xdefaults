@@ -16,6 +16,7 @@ URxvt*scrollBar_floating: true
 URxvt*scrollstyle: plain
 
 !extensions
+URxvt.perl-lib: /usr/local/lib/urxvt/
 URxvt.perl-ext-common: default,matcher,font-size,keyboard-select,selection-to-clipboard
 
 !key binding
